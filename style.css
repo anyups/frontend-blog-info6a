@@ -12,8 +12,10 @@ h1{
     letter-spacing: 1px;
 }
 
-
 .card{
-    padding-top: 315px;
-    text-align: center;
+    display: flex;
+}
+
+.boneco{
+    padding-top: 180px;
 }
