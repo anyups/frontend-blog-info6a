@@ -17,7 +17,7 @@ h1{
 }
 
 .boneco{
-    padding-top: 180px;
+    padding-top: 190px;
 }
 
 .boneco2{
@@ -27,5 +27,15 @@ h1{
 
 .boneco3{
     padding-top: 350px;
-    padding-left: 500px;
+    padding-left: 480px;
+}
+
+.gaivota{
+    margin-top: -650px;
+    margin-left: 290px;
+}
+
+.twitter{
+    margin-top: -700px;
+    margin-left: 1150px;
 }
