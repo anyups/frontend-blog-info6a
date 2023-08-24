@@ -42,4 +42,7 @@ h1{
 
 footer{
     font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    padding-top: 510px;
+    padding-left: 10px;
 }
