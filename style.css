@@ -40,6 +40,10 @@ h1{
     margin-left: 1150px;
 }
 
+img:hover{
+    transform: scaleX(-1);
+}
+
 footer{
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
